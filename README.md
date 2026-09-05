@@ -45,7 +45,7 @@
 ## Запуск проекта
 
 ```bash
-git clone https://github.com/your-username/linear-models-classification.git
+git clone https://github.com/danysusalev/linear-models-classification.git
 cd linear-models-classification
 pip install -r requirements.txt
 jupyter notebook notebooks/research_linear_models.ipynb
